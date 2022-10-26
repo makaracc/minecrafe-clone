@@ -43,3 +43,17 @@ body {
 .absolute {
   position: absolute;
 }
+
+.centered {
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.small-text {
+  font-size: 25px;
+}
+
+.cursor {
+  color: white;
+}
