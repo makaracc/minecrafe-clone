@@ -57,3 +57,17 @@ body {
 .cursor {
   color: white;
 }
+
+.texture-selector {
+  transform: scale(5);
+}
+
+.texture-selector img.active {
+  padding: 0;
+  border: 2px solid black;
+}
+
+.menu {
+  top: 10px;
+  left: 10px;
+}
